@@ -1,0 +1,21 @@
+/*background image*/
+body{
+    background-image: url('https://www.giantfreakinrobot.com/wp-content/uploads/2021/03/endgame-900x506.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+/*heading for no favourites*/
+h5{
+    margin-left: 40%;
+    margin-right: 40%;
+    color: white;
+    font-style: bold;
+}
+
+.nav-link{
+    color: white;
+    font-size: large;
+}
